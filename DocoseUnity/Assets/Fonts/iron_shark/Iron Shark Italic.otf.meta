@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 05ef02cd2e7544b24bbeaede026d4cd3
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Iron Shark
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 927081f313d3348a1988fd85498bc08f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

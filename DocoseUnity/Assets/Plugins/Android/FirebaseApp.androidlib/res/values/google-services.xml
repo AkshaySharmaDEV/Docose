@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_android_client_id,@string/default_web_client_id" xmlns:tools="http://schemas.android.com/tools">
+  <string name="firebase_database_url" translatable="false">https://healthapp-3cd39-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+  <string name="gcm_defaultSenderId" translatable="false">535526657024</string>
+  <string name="google_storage_bucket" translatable="false">healthapp-3cd39.appspot.com</string>
+  <string name="project_id" translatable="false">healthapp-3cd39</string>
+  <string name="google_api_key" translatable="false">AIzaSyB5m1UEk2Qfurjvz59NExIl6RQZBc7-8fI</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB5m1UEk2Qfurjvz59NExIl6RQZBc7-8fI</string>
+  <string name="google_app_id" translatable="false">1:535526657024:android:35a075c42f203cb45f5ce5</string>
+  <string name="default_android_client_id" translatable="false">535526657024-aqu2evqo268e8i7t6b0alshlfjnik507.apps.googleusercontent.com</string>
+  <string name="default_web_client_id" translatable="false">535526657024-r8bf7lpmbfgi2c82oss9h66pes98jgil.apps.googleusercontent.com</string>
+</resources>
